@@ -1,0 +1,5 @@
+assert(fib(5) == 5)
+assert(fib(20) == 6765)
+assert(fib(30) == 832040)
+assert(fib(50) == 12586269025)
+print("🎉  all tests pass 🎉")
